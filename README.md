@@ -54,12 +54,6 @@ I wanted to explore how computer vision can be used to enhance everyday activiti
 
 ---
 
-## 📸 Example Output
-
-> (You can add a screenshot or short demo video here!)
-
----
-
 ## 🛠 Future Improvements
 
 * Add squat/lunge detection
